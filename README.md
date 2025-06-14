@@ -29,21 +29,12 @@ Welcome to my GitHub! I'm a Full Stack Developer with 3+ years of experience bui
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devforhire786&show_icons=true&theme=radical" alt="Nouman's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devforhire786&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-</div>
-
----
 
 ## 📌 Featured Projects
 
-- 🏦 **Financial App with Stock Lending** – Permissions & liquidity system with real-time calculations
-- 🌐 **GraphQL Enterprise SPA** – Built with Next.js, deployed on AWS for Marble Collective
+- 🏦 **Financial App with Stock Lending** – Permissions & liquidity system with real-time calculations. ![liqueous.com](https://liqueous.com)
+- 🌐 **GraphQL Enterprise SPA** – Built with Next.js, deployed on AWS for Marble Collective.![marblecollective.com](https://marblecollective.com)
 - 🛒 **Multi-vendor eCommerce** – Full-featured web store with custom REST APIs and Firebase Auth
 
 > 🧩 Check out my pinned repos below 👇
